@@ -1,8 +1,8 @@
-Huffman Coding in C++
+**Huffman Coding in C++**
 
 A C++ program that explores Huffman coding, a compression algorithm that uses character frequencies to construct a binary tree and assign variable-length binary codes to characters. This project demonstrates the use of data structures, binary trees, and algorithm design.
 
-Features
+**Features**
 
 Demonstrates the principles of Huffman coding
 
@@ -12,7 +12,7 @@ Works with binary trees as part of the Huffman coding process
 
 Includes a test driver (main) to run the program
 
-How to Run (Visual Studio)
+**How to Run (Visual Studio)**
 
 Download the repository as a ZIP file from GitHub.
 
